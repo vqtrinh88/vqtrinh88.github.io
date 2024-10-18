@@ -146,6 +146,10 @@ figure {
   * 3.1 - Logo
   */
 
+.logo {
+  margin-top: 0.5rem;
+}
+
 .logo h1 a {
   color: #000;
 }
